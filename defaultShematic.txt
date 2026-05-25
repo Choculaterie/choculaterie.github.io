@@ -1,0 +1,47 @@
+ <!---->
+ <div class="col-md-6 col-12 boiteShematic">
+
+                        <div id="carouselX" class="carousel slide">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="imageShematics/..."
+                                        class="d-block w-100 noHighlight" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="imageShematics/..."
+                                        class="d-block w-100 noHighlight" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="imageShematics/..."
+                                        class="d-block w-100 noHighlight" alt="...">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselX"
+                                data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselX"
+                                data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                        <div class="boiteShematicTexte">
+
+                            <h2>Title</h2>
+
+                            <p>Description.</p>
+                            <a href="shematics/..." class="black"
+                                onclick="return confirm('Download locally ?')"><i
+                                    class="fa-solid fa-file-arrow-down shematicDownload pinkish"></i></a>
+                            <a href="..."
+                                target="_blank" class="black" onclick="return confirm('Download within MediaFire ?')"><i
+                                    class="fa-solid fa-fire orange shematicMediaFire"></i></a>
+                            <a href="..." target="_blank" class="black"><i
+                                    class="fa-brands fa-youtube shematicYT red"></i></a>
+
+                        </div>
+
+                    </div>
+                   
